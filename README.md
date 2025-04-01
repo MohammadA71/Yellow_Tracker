@@ -22,6 +22,6 @@ This project uses OpenCV and Pygame to simulate a robot that tracks and follows 
   - Displays the results using Pygame
 
 # Adjustments
-  - You can modify the HSV range inside Project1.py to fine-tune color detection.
+  - You can modify the HSV range inside Project1.py to fine tune color detection.
   - Try different lighting conditions to improve accuracy.
 
